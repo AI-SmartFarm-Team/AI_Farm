@@ -1,3 +1,9 @@
 자격증: SQL Developer, 정보처리기사, 리눅스마스터 1급
 대외활동: AI스마트농생명경진대회, JAVA 풀스택 개발자 양성과정
 사용기술: Python, PHP, C, C#, HTML, CSS, Javascript, SQL, JAVA
+
+기본사항
+경력: 신입
+학력: 대졸예정
+이름: 홍길동
+나이: 26
